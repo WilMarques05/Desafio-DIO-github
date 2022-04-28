@@ -1,0 +1,21 @@
+COMANDOS PARA NAVEGAR NO TERMINAL
+
+ls - lista todo o conteúdo que está na pasta
+
+cd - é usado para entrar em uma pasta
+
+Ctrl + l - Limpa todo o terminal
+
+mkdir - usado para Criar uma nova pasta
+
+git init - usado para adicionar umrepositório git dentro da pagina e o git começa a gerenciar o codigo
+
+ls -a - usada para listar itens ocultos das pastas
+
+cd .. - serve para voltar a pasta anterior
+
+git status - ajuda a monitorar o status dos arquivos
+
+mv - comando para mover arquivo
+
+echo > - Cria um novo arquivo
